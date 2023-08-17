@@ -11,7 +11,7 @@
     font-family: Poppins, 'Courier New', Courier, monospace;
     height: 100vh;
     margin: auto;
-    background: no-repeat center url("/img/n.png");
+    background: no-repeat center url("Fifa_clone_Portfolio/img/n.png");
     background-size: cover ;    
     max-width: 1200px;
     overflow-y: hidden;
@@ -167,7 +167,7 @@
 .Home {
     background-color: #1657E7;
     display: inline-grid;
-    background-image: url("/img/card.png");
+    background-image: url("Fifa_clone_Portfolio/img/card.png");
     background-size: 100%;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -191,7 +191,7 @@
 
 .Project {
     background-color: #E3E7F0;
-    background-image: url("/img/Project.png");
+    background-image: url("Fifa_clone_Portfolio/img/Project.png");
     background-size: auto 100%;
     background-position: right;
     border-radius: 5px;
@@ -203,7 +203,7 @@
 }
 
 .Contact {
-  background-image: url("/img/about.png");
+  background-image: url("Fifa_clone_Portfolio/img/about.png");
   background-color: #F5F5F5;
   background-size: 150%;
   border-radius: 5px;
@@ -524,7 +524,7 @@ textarea{
   z-index: 10;
   touch-action: none;
   transition: transform 0.5s ease, box-shadow 0.2s ease;
-  background-image: url("/img/back-fifa.png");
+  background-image: url("Fifa_clone_Portfolio/img/back-fifa.png");
   background-size: 250px;
   background-position: center;
   background-repeat: no-repeat;
@@ -666,7 +666,7 @@ textarea{
 
 #About{
 background-color: #F5F5F5;
-background-image: url("/img/about.png");
+background-image: url("Fifa_clone_Portfolio/img/about.png");
 padding: 60px;
 background-size: 70%;
 background-position: 150% ;
@@ -677,7 +677,7 @@ justify-content: space-between;
 #Project{
       background-color: #E3E7F0;
       padding: 60px;
-      background-image: url("/img/Project.png");
+      background-image: url("Fifa_clone_Portfolio/img/Project.png");
       background-size: auto 100%;
       background-position: right;
       background-repeat: no-repeat;
@@ -686,7 +686,7 @@ justify-content: space-between;
 
 #Contact{
     padding: 20px;
-    background-image: url("/img/about.png");
+    background-image: url("Fifa_clone_Portfolio/img/about.png");
     background-color: #F5F5F5;
     background-size: 60%;
     background-position: right;
@@ -797,39 +797,39 @@ justify-content: space-between;
 }
 
 .image-1 {
-            background-image: url("/img/Project1.png");
+            background-image: url("Fifa_clone_Portfolio/img/Project1.png");
             background-size: cover;
             background-position: top ;
             background-repeat: no-repeat;
 }
 .image-2 {
-            background-image: url("/img/Project2.png");
+            background-image: url("Fifa_clone_Portfolio/img/Project2.png");
             background-size: cover;
             background-position: top ;            
             background-repeat: no-repeat;
 }
-.image-3 {  background-image: url("/img/Project3.png");
+.image-3 {  background-image: url("Fifa_clone_Portfolio/img/Project3.png");
             background-size: cover;
             background-position: top ;            
             background-repeat: no-repeat;
 }
-.image-4 {  background-image: url("/img/Project4.png");
+.image-4 {  background-image: url("Fifa_clone_Portfolio/img/Project4.png");
             background-size: cover;
             background-position: top ;            
             background-repeat: no-repeat;
 }
-.image-5 {  background-image: url("/img/Project5.png");
+.image-5 {  background-image: url("Fifa_clone_Portfolio/img/Project5.png");
             background-size: cover;
             background-position: top ;            
             background-repeat: no-repeat;
 
 }
-.image-6 {  background-image: url("/img/Project6.png");
+.image-6 {  background-image: url("Fifa_clone_Portfolio/img/Project6.png");
             background-size: cover;
             background-position: top ;
             background-repeat: no-repeat;
 }
-.image-7 {  background-image: url("/img/Project7.png");
+.image-7 {  background-image: url("Fifa_clone_Portfolio/img/Project7.png");
             background-size: cover;
             background-position: top ;
             background-repeat: no-repeat;
